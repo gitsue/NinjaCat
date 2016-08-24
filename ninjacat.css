@@ -1,0 +1,7 @@
+* {
+	outline: 1px dotted red;
+}
+div.container {
+	width: 970px;
+	min-height: 150px;
+}
