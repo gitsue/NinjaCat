@@ -5,3 +5,7 @@ div.container {
 	width: 970px;
 	min-height: 150px;
 }
+	div.imagebox {
+		width: 200px;
+		display: inline-block;
+	}
